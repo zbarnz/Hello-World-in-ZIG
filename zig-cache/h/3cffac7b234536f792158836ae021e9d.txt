@@ -1,0 +1,1 @@
+54586 844424931802387 1644893264000000000 31ee54f6aea4d07cc45db68137c9ee4d C:\Users\Zbarn\scoop\apps\zig\current\lib\libc\mingw\lib-common\ntdll.def.in
